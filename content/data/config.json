@@ -9,24 +9,6 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Sample Pages",
-                "url": "#",
-                "style": "link",
-                "has_subnav": true,
-                "subnav_links": [
-                    {
-                        "label": "Overview",
-                        "url": "/overview",
-                        "style": "link"
-                    },
-                    {
-                        "label": "Showcase",
-                        "url": "/showcase",
-                        "style": "link"
-                    }
-                ]
-            },
-            {
                 "label": "GitHub",
                 "url": "https://github.com/",
                 "style": "primary",
