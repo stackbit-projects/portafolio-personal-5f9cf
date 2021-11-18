@@ -13,7 +13,7 @@ sections:
     image_alt: lorem-ipsum
     image_position: left
     content: |
-      ### Universidad Autonoma del Estado de Hidalgo
+      #### Universidad Autonoma del Estado de Hidalgo
 
       Estudiante de Ingeniería de Software.
     actions: []
