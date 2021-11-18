@@ -19,6 +19,7 @@ sections:
     actions: []
     type: section_content
     image: /images/foto_2-lanczos3-fa7f3737.jpg
+    title: Raymundo Cabrera Mena
   - section_id: cta
     type: section_cta
     title: The Title of The Call to Action Block
