@@ -8,13 +8,7 @@ sections:
     title: Raymundo Cabrera Mena
     content: |
       ##### Universidad Autónoma del Estado de Hidalgo
-    actions:
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        icon_class: dev
-        new_window: false
-        no_follow: false
+    actions: []
   - section_id: cta
     type: section_cta
     title: The Title of The Call to Action Block
