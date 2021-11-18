@@ -7,7 +7,7 @@ sections:
     image_position: left
     title: Raymundo Cabrera Mena
     content: |
-      #### Universidad Autónoma del Estado de Hidalgo
+      ##### Universidad Autónoma del Estado de Hidalgo
     actions: []
   - section_id: cta
     type: section_cta
