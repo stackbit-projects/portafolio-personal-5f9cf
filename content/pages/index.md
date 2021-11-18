@@ -9,9 +9,6 @@ sections:
     content: |
       #### Universidad Autónoma del Estado de Hidalgo
     actions:
-      - label: View Demo
-        url: /docs/getting-started
-        style: primary
       - label: Get Started
         url: /docs/getting-started
         style: secondary
