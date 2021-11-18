@@ -35,7 +35,7 @@ sections:
     image: /images/5.jpg
   - section_id: features
     type: section_grid
-    col_number: two
+    col_number: three
     grid_items:
       - title: Documentation
         content: >-
