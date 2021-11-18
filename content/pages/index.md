@@ -5,7 +5,7 @@ sections:
     type: section_content
     image: /images/foto_2-lanczos3.jpg
     image_position: left
-    title: A Section With An Image
+    title: Raymundo Cabrera Mena
     content: >-
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
