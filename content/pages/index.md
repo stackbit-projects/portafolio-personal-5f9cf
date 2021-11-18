@@ -5,17 +5,6 @@ sections:
     type: section_cta
     title: Raymundo Cabrera Mena
     actions: []
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    actions:
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        icon_class: dev
-        new_window: false
-        no_follow: false
-    type: section_cta
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
