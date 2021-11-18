@@ -31,13 +31,7 @@ sections:
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
-    actions:
-      - label: lorem-ipsum
-        url: '#'
-        style: secondary
-        icon_class: dev
-        new_window: false
-        no_follow: false
+    actions: []
     image: /images/5.jpg
   - section_id: features
     type: section_grid
