@@ -5,14 +5,6 @@ sections:
     type: section_cta
     title: The Title of The Call to Action Block
     actions: []
-  - section_id: text-img
-    type: section_content
-    image: /images/foto_2-lanczos3.jpg
-    image_position: left
-    title: Raymundo Cabrera Mena
-    content: |
-      ##### Universidad Autónoma del Estado de Hidalgo
-    actions: []
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
