@@ -49,14 +49,6 @@ sections:
           - label: Learn More
             url: /showcase
             style: link
-  - section_id: hero
-    type: section_hero
-    title: Hero Section
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
-    actions: []
-    image: /images/5.jpg
   - section_id: features
     type: section_grid
     col_number: three
