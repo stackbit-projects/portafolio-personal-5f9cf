@@ -9,8 +9,7 @@ sections:
     content: |
       ##### Universidad Autónoma del Estado de Hidalgo
     actions: []
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
     content: |
