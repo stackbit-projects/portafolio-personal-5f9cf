@@ -1,10 +1,6 @@
 ---
 title: Home
 sections:
-  - section_id: cta
-    type: section_cta
-    title: Raymundo Cabrera Mena
-    actions: []
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
@@ -16,6 +12,10 @@ sections:
     type: section_content
     image: /images/foto_2-lanczos3-fa7f3737.jpg
     title: Raymundo Cabrera Mena
+  - section_id: cta
+    type: section_cta
+    title: Raymundo Cabrera Mena
+    actions: []
   - section_id: features-two-col
     type: section_grid
     title: Sample Layouts
