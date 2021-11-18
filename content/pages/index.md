@@ -25,6 +25,11 @@ sections:
       - label: Get Started
         url: /docs/getting-started/installation
         style: primary
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    type: section_cta
   - section_id: hero
     type: section_hero
     title: Hero Section
@@ -90,11 +95,6 @@ sections:
           - label: Learn More
             url: /showcase
             style: link
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    actions: []
-    type: section_cta
 seo:
   title: Stackbit Libris Theme
   description: The preview of the Libris theme
