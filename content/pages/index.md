@@ -13,17 +13,10 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: >-
-      ## Lorem ipsum
+    content: |
+      ## Universidad Autonoma del Estado de Hidalgo
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Estudiante de Ingeniería de Software.
     actions: []
     type: section_content
     image: /images/foto_2-lanczos3-fa7f3737.jpg
