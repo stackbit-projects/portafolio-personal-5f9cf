@@ -4,7 +4,7 @@ sections:
   - section_id: text-img
     type: section_content
     image: /images/foto_2-lanczos3.jpg
-    image_position: right
+    image_position: left
     title: Raymundo Cabrera Mena
     content: |
       #### Universidad Autónoma del Estado de Hidalgo
