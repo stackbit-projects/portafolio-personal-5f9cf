@@ -9,7 +9,7 @@ sections:
     content: >-
       Universidad Autonoma del Estado de Hidalgo
       
-      Universidad Autonoma del Estado de Hidalgo
+     
     actions:
       - label: View Demo
         url: /docs/getting-started
