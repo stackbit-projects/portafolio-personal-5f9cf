@@ -25,17 +25,6 @@ sections:
       - label: Get Started
         url: /docs/getting-started/installation
         style: primary
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    actions:
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        icon_class: twitter
-        new_window: false
-        no_follow: false
-    type: section_cta
   - section_id: hero
     type: section_hero
     title: Hero Section
