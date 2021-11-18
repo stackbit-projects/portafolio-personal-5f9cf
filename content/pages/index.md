@@ -9,11 +9,6 @@ sections:
     content: |
       ##### Universidad Autónoma del Estado de Hidalgo
     actions: []
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    col_number: three
-    type: section_docs
   - section_id: cta
     type: section_cta
     title: The Title of The Call to Action Block
