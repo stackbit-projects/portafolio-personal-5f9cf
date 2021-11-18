@@ -35,6 +35,12 @@ sections:
       - label: Get Started
         url: /docs
         style: primary
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
     image: /images/5.jpg
   - section_id: features
     type: section_grid
