@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: cta
     type: section_cta
-    title: The Title of The Call to Action Block
+    title: Raymundo Cabrera Mena
     actions: []
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
