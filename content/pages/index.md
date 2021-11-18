@@ -8,7 +8,7 @@ sections:
     title: Raymundo Cabrera Mena
     content: >-
       Universidad Autonoma del Estado de Hidalgo
-       content:
+      
       Universidad Autonoma del Estado de Hidalgo
     actions:
       - label: View Demo
