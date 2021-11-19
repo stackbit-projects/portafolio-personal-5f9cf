@@ -110,6 +110,11 @@ sections:
     type: section_content
     image: >-
       /images/1552579763_winfatt-scopri-i-database-del-software-gestionale-winfatt.jpg
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    type: section_cta
 seo:
   title: Stackbit Libris Theme
   description: The preview of the Libris theme
