@@ -72,17 +72,10 @@ sections:
     image: /images/stage-en-what-is-web-design.png
   - image_alt: lorem-ipsum
     image_position: left
-    content: >-
-      ## Lorem ipsum
+    content: |
+      *   Kotlin 
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      *   Material Design
     actions: []
     type: section_content
     image: /images/Android_NewForDevelopers_1024x512_updated.png
