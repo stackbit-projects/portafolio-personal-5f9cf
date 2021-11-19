@@ -33,7 +33,12 @@ sections:
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: >
-          ###### Universidad Autónoma del Estado de Hidalgo
+          ######
+
+
+
+
+          Universidad Autónoma del Estado de Hidalgo
 
 
           ###### *&#xA;2017-2021, Licenciatura en Ingeniería de
