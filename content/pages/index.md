@@ -178,6 +178,7 @@ sections:
         actions: []
         image: /images/card5.png
     type: section_grid
+    title: CardsProyectos
 seo:
   title: Mi Portafolio Personal
   description: Raymundo Cabrera Mena
