@@ -125,7 +125,7 @@ sections:
           corporal, gasto energetico y tasa metabolica basal.
 
 
-          Agencia Digital Terrabionics - Servicio Social
+          **Agencia Digital Terrabionics - Servicio Social**
         actions:
           - label: lorem-ipsum
             url: '#'
