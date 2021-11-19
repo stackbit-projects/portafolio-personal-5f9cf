@@ -70,8 +70,7 @@ sections:
     actions: []
     type: section_content
     image: /images/stage-en-what-is-web-design.png
-  - title: lorem-ipsum
-    image_alt: lorem-ipsum
+  - image_alt: lorem-ipsum
     image_position: left
     content: >-
       ## Lorem ipsum
