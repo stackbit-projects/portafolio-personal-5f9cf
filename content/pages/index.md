@@ -147,7 +147,7 @@ sections:
         actions: []
         image: /images/card3.png
       - title: Pagina tributo | Steve Jobs
-        title_url: lorem-ipsum
+        title_url: Pagina tributo | Steve Jobs
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
