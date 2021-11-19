@@ -51,28 +51,6 @@ sections:
 
           ######
         actions: []
-      - title: Experiencia
-        title_url: lorem-ipsum
-        image_alt: lorem-ipsum
-        content: |
-          ###### Desarrollo de Apps Móviles.
-
-          *   Agencia Digital Terrabionics
-
-          ###### ASIST-PROY
-
-          *   RAXE-TECH
-
-          ###### Costeo de Mano de Obra
-
-          *   SQDesarrollo - Grupo Holcim
-        actions:
-          - label: Ver proyectos
-            url: '#'
-            style: link
-            icon_class: dev
-            new_window: false
-            no_follow: false
 seo:
   title: Stackbit Libris Theme
   description: The preview of the Libris theme
