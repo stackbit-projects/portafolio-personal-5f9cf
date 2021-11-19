@@ -19,7 +19,6 @@ sections:
     type: section_cta
   - section_id: features-two-col
     type: section_grid
-    title: Acerca de mi
     col_number: three
     grid_items:
       - title: Acerca de mi
