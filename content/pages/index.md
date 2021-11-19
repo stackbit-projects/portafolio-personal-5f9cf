@@ -131,7 +131,7 @@ sections:
           *Enero - Julio, 2021*
         actions: []
         image: /images/card1_1-triangle.jpg
-      - title: lorem-ipsum
+      - title: ASIST-PROY
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
