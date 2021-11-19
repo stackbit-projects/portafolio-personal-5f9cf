@@ -129,13 +129,7 @@ sections:
 
 
           *Enero - Julio, 2021*
-        actions:
-          - label: lorem-ipsum
-            url: '#'
-            style: link
-            icon_class: dev
-            new_window: false
-            no_follow: false
+        actions: []
         image: /images/card1_1-triangle.jpg
       - title: lorem-ipsum
         title_url: lorem-ipsum
