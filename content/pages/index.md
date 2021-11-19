@@ -82,7 +82,7 @@ sections:
     title: Desarrollo de apps moviles
     section_id: Desarrollo de apps moviles
   - title: Desarrollo de Software
-    section_id: lorem-ipsum
+    section_id: Desarrollo de Software
     image_alt: lorem-ipsum
     image_position: left
     content: >-
