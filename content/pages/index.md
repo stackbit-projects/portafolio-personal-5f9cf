@@ -44,7 +44,7 @@ sections:
 
           - dolor sit amet
         actions: []
-      - title: lorem-ipsum
+      - title: Experiencia
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
