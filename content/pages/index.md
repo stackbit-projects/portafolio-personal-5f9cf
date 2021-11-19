@@ -125,7 +125,7 @@ sections:
           corporal, gasto energetico y tasa metabolica basal.
 
 
-          *Agencia Digital Terrabionics - Servicio Social UAEH*
+          ***Agencia Digital Terrabionics - Servicio Social UAEH***
 
 
           *Enero - Julio, 2021*
