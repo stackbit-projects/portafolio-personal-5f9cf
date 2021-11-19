@@ -33,9 +33,6 @@ sections:
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: >
-          ######
-
-
           Universidad Autónoma del Estado de Hidalgo
 
 
