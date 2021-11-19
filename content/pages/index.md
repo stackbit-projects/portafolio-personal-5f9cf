@@ -54,7 +54,6 @@ sections:
 
           ######
         actions: []
-    title: Perfil Profesional
   - title: Habilidades Tecnicas
     section_id: lorem-ipsum
     actions: []
