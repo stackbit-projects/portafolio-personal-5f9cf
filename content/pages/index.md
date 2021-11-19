@@ -54,7 +54,7 @@ sections:
     section_id: lorem-ipsum
     actions: []
     type: section_cta
-  - title: Desarrollo Web
+  - title: '           Desarrollo Web'
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: right
