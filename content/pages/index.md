@@ -146,7 +146,7 @@ sections:
           *Agosto- Noviembre, 2020*
         actions: []
         image: /images/card3.png
-      - title: lorem-ipsum
+      - title: Pagina tributo | Steve Jobs
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
