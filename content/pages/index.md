@@ -1,6 +1,10 @@
 ---
 title: Home
 sections:
+  - title: Mi Portafolio Personal
+    section_id: lorem-ipsum
+    actions: []
+    type: section_cta
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
@@ -106,10 +110,6 @@ sections:
     type: section_content
     image: >-
       /images/1552579763_winfatt-scopri-i-database-del-software-gestionale-winfatt.jpg
-  - title: Mi Portafolio Personal
-    section_id: lorem-ipsum
-    actions: []
-    type: section_cta
 seo:
   title: Stackbit Libris Theme
   description: The preview of the Libris theme
