@@ -115,6 +115,12 @@ sections:
     subtitle: lorem-ipsum
     actions: []
     type: section_cta
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    col_number: three
+    grid_items: []
+    type: section_grid
 seo:
   title: Stackbit Libris Theme
   description: The preview of the Libris theme
