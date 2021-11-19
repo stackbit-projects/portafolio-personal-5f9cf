@@ -13,7 +13,6 @@ sections:
     image: /images/foto_2-lanczos3-fa7f3737.jpg
     title: Raymundo Cabrera Mena
   - title: Perfil profesional
-    section_id: lorem-ipsum
     actions: []
     type: section_cta
   - section_id: features-two-col
