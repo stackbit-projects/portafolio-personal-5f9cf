@@ -170,9 +170,7 @@ sections:
           PowerBI por medio de la herramienta de Microsoft Excel.
 
 
-
-          **SQDesarrollo - Grupo Holcim**
-
+          ***SQDesarrollo - Grupo Holcim***
 
 
           *Enero - Julio , 2019*
