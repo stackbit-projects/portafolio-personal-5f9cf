@@ -32,15 +32,12 @@ sections:
       - title: Formacion Academica
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
-        content: >
-          Universidad Autónoma del Estado de Hidalgo Licenciatura en Ingenieria
-          de Software.
+        content: |
+          Universidad Autónoma del Estado de Hidalgo
 
-
-
+          >  Licenciatura en Ingenieria de Software.
 
           Centro de Estudios Tecnologicos Industriales y de Servicios No. 91
-
 
           ######
         actions: []
