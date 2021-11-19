@@ -138,6 +138,21 @@ sections:
             new_window: false
             no_follow: false
         image: /images/card1_1-triangle.jpg
+      - title: lorem-ipsum
+        title_url: lorem-ipsum
+        image_alt: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        actions: []
     type: section_grid
 seo:
   title: Stackbit Libris Theme
