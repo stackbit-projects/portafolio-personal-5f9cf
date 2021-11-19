@@ -118,7 +118,7 @@ sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
-    col_number: three
+    col_number: two
     grid_items: []
     type: section_grid
 seo:
