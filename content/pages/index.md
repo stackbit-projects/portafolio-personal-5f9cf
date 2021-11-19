@@ -140,9 +140,7 @@ sections:
           en reportes y generar reportes dinámicos.
 
 
-
-          **RAXE-TECH - Proyecto Integrador UAEH**
-
+          ***RAXE-TECH - Proyecto Integrador UAEH***
 
 
           *Agosto- Noviembre, 2020*
