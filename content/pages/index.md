@@ -185,6 +185,7 @@ sections:
 
           - dolor sit amet
         actions: []
+        image: /images/card5.png
     type: section_grid
 seo:
   title: Stackbit Libris Theme
