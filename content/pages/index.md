@@ -134,6 +134,7 @@ sections:
 
           - dolor sit amet
         actions: []
+        image: /images/card1 (1).jpg
     type: section_grid
 seo:
   title: Stackbit Libris Theme
