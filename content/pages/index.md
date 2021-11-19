@@ -98,6 +98,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
+    image: /images/Desktop-Application-Development.png
 seo:
   title: Stackbit Libris Theme
   description: The preview of the Libris theme
