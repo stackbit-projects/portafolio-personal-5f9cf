@@ -162,7 +162,7 @@ sections:
           *Agosto , 2021*
         actions: []
         image: /images/card2-e89c3df0.png
-      - title: lorem-ipsum
+      - title: Proyecto CMO
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
