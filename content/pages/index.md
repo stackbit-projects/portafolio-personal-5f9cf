@@ -35,7 +35,9 @@ sections:
         content: |
           **Universidad Autónoma del Estado de Hidalgo**
 
-          ###### &#xA;2017-2021 - Licenciatura en Ingeniería de Software
+          **Centro de Estudios Tecnologicos Industriales y de Servicios No. 91**
+
+
 
           ######
         actions: []
