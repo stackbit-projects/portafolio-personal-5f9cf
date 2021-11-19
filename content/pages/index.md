@@ -18,7 +18,7 @@ sections:
     type: section_cta
   - section_id: features-two-col
     type: section_grid
-    col_number: three
+    col_number: two
     grid_items:
       - title: Acerca de mi
         content: >+
