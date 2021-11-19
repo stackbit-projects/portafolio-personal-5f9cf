@@ -34,12 +34,13 @@ sections:
         image_alt: lorem-ipsum
         content: |
           **Universidad Autónoma del Estado de Hidalgo**
-          2017-2021, Licenciatura en Ingeniería de Software.
+          2017-2021, Licenciatura en Ingeniería de Software
+
 
 
           **Centro de Estudios Tecnológicos Industriales y de Servicios No. 91**
 
-          *2014-2017, B.T. en Programación.*
+          *2014-2017, B.T. en Programación*
         actions: []
       - title: Experiencia
         title_url: lorem-ipsum
