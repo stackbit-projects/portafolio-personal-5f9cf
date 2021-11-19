@@ -86,7 +86,7 @@ sections:
     actions: []
     type: section_content
     image: /images/Android_NewForDevelopers_1024x512_updated.png
-    section_id: Desarrollo de apps moviles
+    section_id: Desarrollo de apps móviles
 seo:
   title: Stackbit Libris Theme
   description: The preview of the Libris theme
