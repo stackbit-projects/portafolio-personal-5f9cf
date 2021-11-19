@@ -117,7 +117,7 @@ sections:
   - col_number: three
     grid_items:
       - title: App Dietario
-        title_url: lorem-ipsum
+        title_url: App Dietario
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
