@@ -86,11 +86,11 @@ sections:
     image_alt: lorem-ipsum
     image_position: left
     content: |
-      *   Java
+      *   **Java**
 
-      *   Visual Basic .NET
+      *   **Visual Basic .NET**
 
-      *   C - C#
+      *   **C - C#**
     actions: []
     type: section_content
     image: /images/Desktop-Application-Development.png
