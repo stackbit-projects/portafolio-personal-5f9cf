@@ -108,7 +108,6 @@ sections:
       /images/1552579763_winfatt-scopri-i-database-del-software-gestionale-winfatt.jpg
   - title: Mi Portafolio Personal
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     actions: []
     type: section_cta
 seo:
