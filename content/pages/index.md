@@ -112,7 +112,6 @@ sections:
       /images/1552579763_winfatt-scopri-i-database-del-software-gestionale-winfatt.jpg
   - title: Proyectos
     section_id: Proyectos
-    subtitle: lorem-ipsum
     actions: []
     type: section_cta
   - title: lorem-ipsum
