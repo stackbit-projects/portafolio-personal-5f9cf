@@ -178,7 +178,7 @@ sections:
         image: /images/card5.png
     type: section_grid
 seo:
-  title: Stackbit Libris Theme
+  title: Mi Portafolio Personal
   description: The preview of the Libris theme
   extra:
     - name: 'og:type'
