@@ -81,7 +81,7 @@ sections:
     image: /images/Android_NewForDevelopers_1024x512_updated.png
     title: Desarrollo de apps moviles
     section_id: Desarrollo de apps moviles
-  - title: lorem-ipsum
+  - title: Desarrollo de Software
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
