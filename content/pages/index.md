@@ -154,9 +154,7 @@ sections:
           el curso de FreeCodeCamp - Responsive Web Design Certifications.
 
 
-
-          **Zeniaq Technologies - Practicas Profesionales.**
-
+          ***Zeniaq Technologies - Practicas Profesionales.***
 
 
           *Agosto , 2021*
