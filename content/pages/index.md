@@ -66,7 +66,7 @@ sections:
         actions:
           - label: lorem-ipsum
             url: '#'
-            style: primary
+            style: link
             icon_class: dev
             new_window: false
             no_follow: false
