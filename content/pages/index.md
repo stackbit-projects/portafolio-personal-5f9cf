@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Inicio
 sections:
   - title: Mi Portafolio Personal
     section_id: lorem-ipsum
