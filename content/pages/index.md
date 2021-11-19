@@ -165,17 +165,19 @@ sections:
       - title: Proyecto CMO
         title_url: Proyecto CMO
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          Aplicación de escritorio que ayuda a realizar cálculos de mano de
+          obra, estimaciones de costo por proyecto y determinar que proyecto es
+          mas factible por Clúster aplicando Inteligencia de negocios con
+          PowerBI por medio de la herramienta de Microsoft Excel.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+          **SQDesarrollo - Grupo Holcim**
 
 
-          - Lorem ipsum
 
-          - dolor sit amet
+          *Enero - Julio , 2019*
         actions: []
         image: /images/card5.png
     type: section_grid
