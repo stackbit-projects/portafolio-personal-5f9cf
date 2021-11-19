@@ -8,13 +8,7 @@ sections:
       #### Universidad Autonoma del Estado de Hidalgo
 
       Estudiante de Ingeniería de Software.
-    actions:
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        icon_class: dev
-        new_window: false
-        no_follow: false
+    actions: []
     type: section_content
     image: /images/foto_2-lanczos3-fa7f3737.jpg
     title: Raymundo Cabrera Mena
