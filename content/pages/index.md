@@ -33,11 +33,9 @@ sections:
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: |
-          **Universidad Autónoma del Estado de Hidalgo**
+          Universidad Autónoma del Estado de Hidalgo
 
-          **Centro de Estudios Tecnologicos Industriales y de Servicios No. 91**
-
-
+          Centro de Estudios Tecnologicos Industriales y de Servicios No. 91
 
           ######
         actions: []
