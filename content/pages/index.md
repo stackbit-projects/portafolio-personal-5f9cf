@@ -51,17 +51,23 @@ sections:
       - title: Experiencia
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
-        content: >
+        content: |+
+          Desarrollo de Apps Moviles.
+
+          *   Agencia Digital Terrabionics
+
+          ## &#xA;
+
+          ASIST-PROY.
+
+          *   RAXE-TECH
+
           ##
 
+          Costeo de Mano de Obra
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   SQDesarrollo - Grupo Holcim
 
-
-          *   Lorem ipsum
-
-          *   dolor sit amet
         actions: []
   - section_id: features
     type: section_grid
