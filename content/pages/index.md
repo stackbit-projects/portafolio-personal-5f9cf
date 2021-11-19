@@ -50,7 +50,7 @@ sections:
 
           ######
         actions: []
-  - title: lorem-ipsum
+  - title: Habilidades Tecnicas
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
