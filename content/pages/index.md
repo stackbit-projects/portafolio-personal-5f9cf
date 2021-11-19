@@ -87,6 +87,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
+    image: /images/Android_NewForDevelopers_1024x512_updated.png
 seo:
   title: Stackbit Libris Theme
   description: The preview of the Libris theme
