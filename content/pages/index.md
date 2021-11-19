@@ -58,17 +58,15 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: >-
-      ## Lorem ipsum
+    content: |+
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      *   HTML5
+      *   CSS3 - Boostrap
+      *   JavaScript
+      *   React
+      *   Next.JS - Chakra UI
 
-
-      - Lorem ipsum
-
-      - dolor sit amet
     actions: []
     type: section_content
     image: /images/stage-en-what-is-web-design.png
