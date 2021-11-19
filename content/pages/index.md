@@ -134,7 +134,7 @@ sections:
       - title: Asist-Proy
         title_url: Asist-Proy
         image_alt: lorem-ipsum
-        content: >-
+        content: >
           ## Lorem ipsum
 
 
@@ -142,9 +142,9 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
+          *   Lorem ipsum
 
-          - dolor sit amet
+          *   dolor sit amet
         actions: []
         image: /images/card3.png
       - title: lorem-ipsum
