@@ -63,7 +63,13 @@ sections:
           ###### Costeo de Mano de Obra
 
           *   SQDesarrollo - Grupo Holcim
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon_class: dev
+            new_window: false
+            no_follow: false
   - section_id: features
     type: section_grid
     col_number: three
