@@ -94,7 +94,7 @@ sections:
     actions: []
     type: section_content
     image: /images/Desktop-Application-Development.png
-  - title: lorem-ipsum
+  - title: Bases de datos
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
