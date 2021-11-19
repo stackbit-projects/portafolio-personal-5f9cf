@@ -15,7 +15,7 @@ sections:
   - section_id: features-two-col
     type: section_grid
     title: Acerca de mi
-    col_number: three
+    col_number: two
     grid_items:
       - title: Overview
         content: >-
