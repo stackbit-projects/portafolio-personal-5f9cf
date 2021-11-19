@@ -26,7 +26,6 @@ sections:
           - label: Learn More
             url: /overview
             style: link
-        image: /images/card2.png
   - section_id: features
     type: section_grid
     col_number: three
