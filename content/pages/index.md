@@ -43,6 +43,9 @@ sections:
           91
 
 
+          B.T. en Programación 
+
+
           ######
         actions: []
       - title: Experiencia
