@@ -723,5 +723,5 @@ models:
     type: object
     label: cardsproyect
     fields:
-      - name: ''
+      - name: nombre
         type: string
