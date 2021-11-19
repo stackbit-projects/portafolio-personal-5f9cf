@@ -52,7 +52,6 @@ sections:
         actions: []
   - title: Habilidades Tecnicas
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     actions: []
     type: section_cta
 seo:
