@@ -163,7 +163,7 @@ sections:
         actions: []
         image: /images/card2-e89c3df0.png
       - title: Proyecto CMO
-        title_url: lorem-ipsum
+        title_url: Proyecto CMO
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
