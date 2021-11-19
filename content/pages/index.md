@@ -35,9 +35,11 @@ sections:
         content: |
           Universidad Autónoma del Estado de Hidalgo
 
-          > Licenciatura en Ingenieria de Software.
+          Licenciatura en Ingeniería de Software
 
-          Centro de Estudios Tecnologicos Industriales y de Servicios No. 91
+
+
+          Centro de Estudios Tecnológicos Industriales y de Servicios No. 91
 
           ######
         actions: []
