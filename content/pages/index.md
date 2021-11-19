@@ -56,7 +56,13 @@ sections:
         actions: []
   - title: Habilidades Tecnicas
     section_id: lorem-ipsum
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
     type: section_cta
   - title: '           Desarrollo Web'
     section_id: Desarrollo Web
