@@ -64,7 +64,7 @@ sections:
 
           *   SQDesarrollo - Grupo Holcim
         actions:
-          - label: lorem-ipsum
+          - label: Ver proyectos
             url: '#'
             style: link
             icon_class: dev
