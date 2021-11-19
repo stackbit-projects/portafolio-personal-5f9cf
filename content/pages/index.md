@@ -18,10 +18,16 @@ sections:
     col_number: two
     grid_items:
       - title: Acerca de mi
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla tortor at, pulvinar orci.
+        content: >+
+          Actualmente cursando el último año de la carrera, con los
+          conocimientos necesarios para la realización de proyectos de software.
+
+
+          Me considero una persona autodidacta, disciplinado, responsable,
+          creativo, organizado, puntual, comprometido y colaborativo.
+
+
+
         actions: []
   - section_id: features
     type: section_grid
