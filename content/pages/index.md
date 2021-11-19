@@ -183,6 +183,11 @@ sections:
         actions: []
         image: /images/card5.png
     type: section_grid
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    type: section_cta
 seo:
   title: Mi Portafolio Personal
   description: Raymundo Cabrera Mena
