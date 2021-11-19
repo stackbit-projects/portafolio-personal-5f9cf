@@ -12,6 +12,11 @@ sections:
     type: section_content
     image: /images/foto_2-lanczos3-fa7f3737.jpg
     title: Raymundo Cabrera Mena
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    type: section_cta
   - section_id: features-two-col
     type: section_grid
     title: Acerca de mi
@@ -70,11 +75,6 @@ sections:
             icon_class: dev
             new_window: false
             no_follow: false
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    actions: []
-    type: section_cta
 seo:
   title: Stackbit Libris Theme
   description: The preview of the Libris theme
