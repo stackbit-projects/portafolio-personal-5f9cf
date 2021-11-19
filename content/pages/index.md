@@ -135,16 +135,17 @@ sections:
         title_url: Asist-Proy
         image_alt: lorem-ipsum
         content: >
-          ## Lorem ipsum
+          Aplicación de escritorio que ayuda a la gestión, planeación y
+          controlar tareas de proyectos de software. Además de implementar de BI
+          en reportes y generar reportes dinámicos.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+          **RAXE-TECH - Proyecto Integrador UAEH**
 
 
-          *   Lorem ipsum
 
-          *   dolor sit amet
+          *Agosto- Noviembre, 2020*
         actions: []
         image: /images/card3.png
       - title: lorem-ipsum
