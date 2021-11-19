@@ -37,7 +37,7 @@ sections:
           Licenciatura en Ingeniería de Software
 
 
-          ###### ****
+          ######
         actions: []
       - title: Experiencia
         title_url: lorem-ipsum
