@@ -14,7 +14,6 @@ sections:
     title: Raymundo Cabrera Mena
   - title: Perfil profesional
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     actions: []
     type: section_cta
   - section_id: features-two-col
