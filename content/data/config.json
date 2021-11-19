@@ -3,7 +3,6 @@
     "path_prefix": "/",
     "palette": "navy",
     "header": {
-        "logo_img_alt": "Libris logo",
         "has_nav": true,
         "nav_links": []
     },
