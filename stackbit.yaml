@@ -223,6 +223,7 @@ models:
             - section_docs
             - section_grid
             - section_hero
+            - cardsproyect
       - type: model
         name: seo
         models:
@@ -726,3 +727,4 @@ models:
       - name: nombre
         type: string
         label: nombre
+    labelField: nombre
