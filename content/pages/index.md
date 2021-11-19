@@ -114,7 +114,7 @@ sections:
     section_id: Proyectos
     actions: []
     type: section_cta
-  - col_number: two
+  - col_number: three
     grid_items:
       - title: lorem-ipsum
         title_url: lorem-ipsum
