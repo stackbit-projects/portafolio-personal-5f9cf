@@ -179,7 +179,7 @@ sections:
     type: section_grid
 seo:
   title: Mi Portafolio Personal
-  description: 'Raymundo Cabrera Mena - Portafolio personal '
+  description: Raymundo Cabrera Mena
   extra:
     - name: 'og:type'
       value: website
