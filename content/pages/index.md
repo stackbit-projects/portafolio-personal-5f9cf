@@ -33,7 +33,10 @@ sections:
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: >
-          ###### Universidad Autónoma del Estado de Hidalgo
+          ######
+
+
+          Universidad Autónoma del Estado de Hidalgo
 
 
           Licenciatura en Ingeniería de Software
@@ -43,7 +46,7 @@ sections:
           91
 
 
-          B.T. en Programación 
+          B.T. en Programación
 
 
           ######
