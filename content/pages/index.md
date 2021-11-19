@@ -57,7 +57,7 @@ sections:
   - title: Desarrollo Web
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    image_position: left
+    image_position: right
     content: >-
       ## Lorem ipsum
 
