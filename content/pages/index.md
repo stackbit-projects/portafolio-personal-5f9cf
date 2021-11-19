@@ -32,17 +32,14 @@ sections:
       - title: Formacion Academica
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          ### Universidad Autónoma del Estado de Hidalgo 
 
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          ##### *&#xA;2017-2021, Licenciatura en Ingeniería de
+          Software.*&#xA;&#xA;&#xA;
         actions: []
       - title: Experiencia
         title_url: lorem-ipsum
