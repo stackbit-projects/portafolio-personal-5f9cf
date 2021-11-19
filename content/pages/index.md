@@ -52,15 +52,15 @@ sections:
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: |
-          Desarrollo de Apps Moviles.
+          ###### Desarrollo de Apps Móviles.
 
           *   Agencia Digital Terrabionics
 
-          ASIST-PROY
+          ###### ASIST-PROY
 
           *   RAXE-TECH
 
-          Costeo de Mano de Obra
+          ###### Costeo de Mano de Obra
 
           *   SQDesarrollo - Grupo Holcim
         actions: []
