@@ -1,10 +1,6 @@
 ---
 title: Inicio
 sections:
-  - title: Mi Portafolio Personal
-    section_id: lorem-ipsum
-    actions: []
-    type: section_cta
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
@@ -16,6 +12,10 @@ sections:
     type: section_content
     image: /images/foto_2-lanczos3.jpg
     title: Raymundo Cabrera Mena
+  - title: Mi Portafolio Personal
+    section_id: lorem-ipsum
+    actions: []
+    type: section_cta
   - title: Perfil Profesional
     actions: []
     type: section_cta
