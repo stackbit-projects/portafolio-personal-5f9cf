@@ -132,7 +132,7 @@ sections:
         actions: []
         image: /images/card1_1-triangle.jpg
       - title: ASIST-PROY
-        title_url: lorem-ipsum
+        title_url: ASIST-PROY
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
