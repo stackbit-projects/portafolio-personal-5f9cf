@@ -14,7 +14,7 @@ sections:
       Estudiante de Ingeniería de Software.
     actions: []
     type: section_content
-    image: /images/stage-en-what-is-web-design.png
+    image: /images/foto_2-lanczos3.jpg
     title: Raymundo Cabrera Mena
   - title: Perfil Profesional
     actions: []
