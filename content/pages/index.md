@@ -188,6 +188,8 @@ sections:
     subtitle: lorem-ipsum
     actions: []
     type: section_cta
+  - nombre: lorem-ipsum
+    type: cardsproyect
 seo:
   title: Mi Portafolio Personal
   description: Raymundo Cabrera Mena
