@@ -130,7 +130,13 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon_class: dev
+            new_window: false
+            no_follow: false
         image: /images/card1_1-triangle.jpg
     type: section_grid
 seo:
