@@ -85,17 +85,12 @@ sections:
     section_id: Desarrollo de Software
     image_alt: lorem-ipsum
     image_position: left
-    content: >-
-      ## Lorem ipsum
+    content: |
+      *   Java
 
+      *   Visual Basic .NET
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      *   C - C#
     actions: []
     type: section_content
     image: /images/Desktop-Application-Development.png
