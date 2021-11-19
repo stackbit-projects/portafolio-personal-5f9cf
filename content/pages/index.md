@@ -149,17 +149,17 @@ sections:
       - title: Pagina tributo | Steve Jobs
         title_url: Pagina tributo | Steve Jobs
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          Proyecto de diseño web que muestra un tributo a Steve Jobs. Creada en
+          el curso de FreeCodeCamp - Responsive Web Design Certifications.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+          **Zeniaq Technologies - Practicas Profesionales.**
 
 
-          - Lorem ipsum
 
-          - dolor sit amet
+          *Agosto , 2021*
         actions: []
         image: /images/card2-e89c3df0.png
       - title: lorem-ipsum
