@@ -119,12 +119,13 @@ sections:
       - title: App Dietario
         title_url: App Dietario
         image_alt: lorem-ipsum
-        content: >+
+        content: >
           Aplicacion movil que nos ayuda a calcular el numero de calorias por
           dia de forma personalizada, ademas de conocer tu indice de masa
           corporal, gasto energetico y tasa metabolica basal.
 
 
+          ###### Agencia Digital Terrabionics - Servicio Social
         actions:
           - label: lorem-ipsum
             url: '#'
