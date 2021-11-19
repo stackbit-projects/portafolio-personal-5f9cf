@@ -111,6 +111,8 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
+    image: >-
+      /images/1552579763_winfatt-scopri-i-database-del-software-gestionale-winfatt.jpg
 seo:
   title: Stackbit Libris Theme
   description: The preview of the Libris theme
