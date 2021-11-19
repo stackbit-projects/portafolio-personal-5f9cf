@@ -126,6 +126,9 @@ sections:
 
 
           *Agencia Digital Terrabionics - Servicio Social UAEH*
+
+
+          *Enero - Julio, 2021*
         actions:
           - label: lorem-ipsum
             url: '#'
