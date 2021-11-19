@@ -179,7 +179,7 @@ sections:
     type: section_grid
 seo:
   title: Mi Portafolio Personal
-  description: The preview of the Libris theme
+  description: 'Raymundo Cabrera Mena - Portafolio personal '
   extra:
     - name: 'og:type'
       value: website
